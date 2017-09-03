@@ -1,4 +1,4 @@
-Pour jeudi 7 septembre 2017:
+Pour [jeudi 7 septembre 2017](https://github.com/1SSI/Devoirs/issues/1):
 
 1. Lire le [polycopié sur sur le second degré](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Polycopi%C3%A9/secondDegre.pdf).
 
