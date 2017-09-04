@@ -1,1 +1,1 @@
-# Devoirs lien à faire ok Voilà.
+# [Publication devoirs](https://github.com/1SSI/Devoirs/issues)
