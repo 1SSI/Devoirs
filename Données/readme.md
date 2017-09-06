@@ -6,12 +6,17 @@ Pour jeudi 14 septembre 2017:
 
 1. Faire l'exercice [58 page 38]( https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
 
+---
 
 Pour mardi 12 septembre 2017:
 
 1. Rédiger une solution pour les [exercices 33 à 35](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Images/33-34-35p38.png) à l'aide de l'éditeur sharelatex.
 
-1. Créer un dépot nommé Devoirs sur votre compte GitHub et déposer y le fichier 170912/33-35.pdf obtenu à l'aide de l'éditeur shareLatex.
+1. Créer un dépot nommé Devoirs sur votre compte GitHub en cochant Initialize this repository with a README.
+
+1. Créer un répertoire 170912 et déposer y un fichier 33-35.pdf obtenu à l'aide de l'éditeur shareLatex.
+
+---
 
 Pour lundi 11 septembre 2017:
 
