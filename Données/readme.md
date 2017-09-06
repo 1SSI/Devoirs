@@ -14,7 +14,7 @@ Pour mardi 12 septembre 2017:
 
 1. Créer un dépot nommé Devoirs sur votre compte GitHub en cochant Initialize this repository with a README.
 
-1. Créer un répertoire 170912 et déposer y un fichier 33-35.pdf obtenu à l'aide de l'éditeur shareLatex.
+ 1. Créer un fichier nommé 170912/readme.md et déposer dans le dossier 170912 ainsi créé un fichier 33-35.pdf obtenu à l'aide de l'éditeur shareLatex.
 
 ---
 
