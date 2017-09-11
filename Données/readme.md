@@ -4,7 +4,7 @@ Pour jeudi 14 septembre 2017:
 
 1. Recopier la définition 9 et le théorème 11 du [polycopié sur le second degré](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Polycopi%C3%A9/secondDegre.pdf).
 
-1. Faire l'exercice [58 page 38]( https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
+1. Faire l'exercice [53 page 38]( https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Images/53p38.png).
 
 ---
 
