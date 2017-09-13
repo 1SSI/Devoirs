@@ -1,3 +1,11 @@
+**Devoir à la maison 3**
+
+1. [Exercice 67 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Configuration de paraboles.
+
+1. [Exercice 80 page 41](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/80p41.png) Résolution d'inéquations.
+
+---
+
 **Devoir à la maison 2**
 
 Pour jeudi 14 septembre 2017
