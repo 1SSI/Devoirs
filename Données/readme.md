@@ -1,3 +1,31 @@
+Pour jeudi 21 septembre 2017:
+
+**Devoir à la maison 3**
+
+1. [Exercice 67 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Configuration de paraboles.
+
+1. [Exercice 80 page 41](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/80p41.png) Résolution d'inéquations.
+
+---
+
+Pour mardi 19 septembre 2017:
+
+1. [Exercices 57 et 60 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/57-60p39.png): des trinômes avec un paramètre.
+
+1. [Exercices 58 et 59 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/58-59p39.png): Problèmes du second degré.
+
+---
+
+Pour lundi 18 septembre 2017:
+
+1. Lire les exercices résolus C et D page 30 et 31.
+
+1. [Exercices 7 à 9 page 30](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/7-9p30.png): Exploiter une factorisation.
+
+1. [Exercices 10 à 14 page 31](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/10-14p31.png): Signe d'un trinôme et résolution d'une inéquation.
+
+---
+
 Pour jeudi 14 septembre 2017:
 
 **Devoir à la maison 2**
