@@ -1,3 +1,42 @@
+Pour jeudi 28 septembre 2017:
+
+1. [Exercice 1-2 page 166](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/1-2p166.png): Somme et égalité de vecteurs.
+
+1. [Exercice 3 page 166](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/3p166.png): Colinéarité de vecteurs.
+
+1. [Exercices 4 et 5 page 166](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/4-5p166.png): Coordonnées de vecteurs.
+
+---
+
+Pour mardi 26 septembre 2017:
+
+Contrôle sur le second degré avec:
+
+- Des formes canoniques.
+- Des équations et inéquations du second degré.
+- Des études de signe de trinômes.
+- Des positions relatives de courbes.
+- Des démonstrations pour les variations de fonction de références.
+
+---
+
+Pour lundi 25 septembre 2017:
+
+Préparer la séance de révision pour le contrôle sur le second degré:
+
+1. Lire les fiches méthodes:
+
+- [Déterminer et utiliser une forme canonique](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20m%C3%A9thodes/Determiner%20et%20utiliser%20la%20forme%20canonique.pdf).
+
+- [Résoudre une équation du second degré](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20m%C3%A9thodes/Resoudre%20une%20equation%20du%20second%20degre.pdf).
+
+- [Résoudre une inéquation du second degré](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Fiches%20m%C3%A9thodes/Resoudre%20une%20inequation%20du%20second%20degre.pdf)
+
+2. Réaliser la liste des compétences qu'il vous semble nécessaire de maîtriser pour le contrôle sur le second degré.
+
+
+---
+
 Pour jeudi 21 septembre 2017:
 
 **Devoir à la maison 3**
