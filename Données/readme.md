@@ -1,5 +1,7 @@
 Pour jeudi 28 septembre 2017:
 
+1. Lire le [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf) du cours sur les vecteurs.
+
 1. [Exercice 1-2 page 166](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/1-2p166.png): Somme et égalité de vecteurs.
 
 1. [Exercice 3 page 166](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/3p166.png): Colinéarité de vecteurs.
