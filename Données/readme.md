@@ -4,18 +4,11 @@ Pour jeudi 5 octobre 2017:
 
 2. Lire l'exercice résolu [F page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Fp176.png): Utilisation d'un repère.
 
-![F page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Fp176.png)
-
-
 **Devoir à la maison 4**:
 
 - Recopier les proposition 7 et 9 du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
 
-![proposition 7 et 9](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/coord%26col.png).
-
 - Faire l'exercice [25 page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/25p176.png): Choisir un repère.
-
-![25 page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/25p176.png)
 
 ---
 
@@ -23,19 +16,11 @@ Pour mardi 3 octobre 2017:
 
 1. Lire le point logique sur [l'implication et l'implication réciproque 2 page 347-348](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/2p347-348.png):
 
-![2p347](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/2p347-348.png)
-
 2. Faire l'[exercice 100 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/100p43.png) sur la réciproque d'une implication pour un trinôme à paramètre.
-
-![100 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/100p43.png)
 
 3. Lire le point sur l'[équivalence 3 page 348](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/3p348.png)
 
-![3 page 348](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/3p348.png)
-
 4. Faire l'[exercice 70 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png): Equivalence pour un trinôme à paramètre.
-
-![70 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/70p40.png)
 
 ---
 
@@ -43,18 +28,13 @@ Pour lundi 2 octobre 2017:
 
 1. Exercice [63 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/63p39.png): Surface d'un écran.
 
-![](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/63p39.png)
 2. Exercice [64 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/64p39.png): Remembrement d'une surface agricole.
-
-![64 page 39](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/64p39.png)
 
 3. Exercice [72 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/72p40.png): Un problème de minimisation de volume.
 
-![72 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/72p40.png)
-
 4. Exercice [82 page 41](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png): Un problème d'optimisation de surface.
 
-![82 page 41](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/82p41.png)
+---
 
 Pour jeudi 28 septembre 2017:
 
