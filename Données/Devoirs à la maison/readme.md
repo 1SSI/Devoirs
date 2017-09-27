@@ -1,3 +1,15 @@
+**Devoir à la maison 4**:
+
+1. Recopier les proposition 7 et 9 du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+![proposition 7 et 9](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/coord%26col.png).
+
+2. Faire l'exercice [25 page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/25p176.png): Choisir un repère.
+
+![25 page 176](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/25p176.png)
+
+---
+
 **Devoir à la maison 3**
 
 1. [Exercice 67 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Configuration de paraboles.
