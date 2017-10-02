@@ -21,9 +21,9 @@ Pour lundi 9 octobre 2017:
 
 4. [Exercice 93 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/93p43.png): Trinôme à paramètres.
 
-5.[Exercice 94 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/94p43.png): Trinôme à paramètres.
+5. [Exercice 94 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/94p43.png): Trinôme à paramètres.
 
-6.[Exercice 95 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/95p43.png): Trinôme à paramètres.
+6. [Exercice 95 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/95p43.png): Trinôme à paramètres.
 
 ---
 
