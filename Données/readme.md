@@ -1,3 +1,32 @@
+Pour mardi 10 octobre 2017:
+
+Contrôle avec des problèmes du second degré:
+
+- Donner une équation de cercle dans un repère orthonormé.
+- Reconnaître une équation de cercle.
+- Résolution d'inéquation.
+- Variation d'un trinôme.
+- Recherche de nombres dont la somme et le produit sont connus.
+- Trinômes à paramètres.
+
+---
+
+Pour lundi 9 octobre 2017:
+
+1. [Exercice 84 page 42](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/84p42.png): Problème de minimisation utilisation des variations d'un trinôme du second degré.
+
+2. [Exercice 90 page 42](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/90p42.png): Recherche de nombres dont on caonnait la somme et le produit.
+
+3. [Exercice 91 page 42](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/91p42.png): Recherche de trois entiers consécutifs.
+
+4. [Exercice 93 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/93p43.png): Trinôme à paramètres.
+
+5.[Exercice 94 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/94p43.png): Trinôme à paramètres.
+
+6.[Exercice 95 page 43](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/95p43.png): Trinôme à paramètres.
+
+---
+
 Pour jeudi 5 octobre 2017:
 
 1. Relire et questionner les paragraphes 1.3 repères du plan, 1.4 systèmes de coordonnées, 1.5 critère de colinéarité du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
