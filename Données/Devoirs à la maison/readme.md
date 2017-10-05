@@ -1,5 +1,7 @@
 **Devoir à la maison 4**:
 
+Pour jeudi 5 octobre 2017
+
 1. Recopier les proposition 7 et 9 du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
 
 ![proposition 7 et 9](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/coord%26col.png).
@@ -11,6 +13,8 @@
 ---
 
 **Devoir à la maison 3**
+
+Pour jeudi 21 septembre 2017
 
 1. [Exercice 67 page 40](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/1.%20Second%20degr%C3%A9/Images/67p40.png): Configuration de paraboles.
 
