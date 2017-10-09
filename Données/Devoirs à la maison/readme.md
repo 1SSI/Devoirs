@@ -1,3 +1,13 @@
+**Devoir à la maison 5**:
+
+Pour jeudi 19 octobre 2017
+
+1. Recopier proposition 9 et théorème 15 du [cours polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Faire l'[exercice 9 de la fiche 3 sur les vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/9fiche3.png).
+
+---
+
 **Devoir à la maison 4**:
 
 Pour jeudi 5 octobre 2017

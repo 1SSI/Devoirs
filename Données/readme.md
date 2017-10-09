@@ -1,3 +1,51 @@
+
+Pour jeudi 19 octobre 2017:
+
+**Devoir à la maison 5**:
+
+1. Recopier proposition 9 et théorème 15 du [cours polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Faire l'[exercice 9 de la fiche 3 sur les vecteurs](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/9fiche3.png).
+
+---
+
+Pour mardi 17 octobre 2017:
+
+1. Relire la partie C du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Recopier et apprendre le théorème 24.
+
+3. Compléter l'exercice de cours [27 page 177](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/27p177.png).
+
+
+4. Faire (éventuellement de tête) les exercices [39 à 45 page 182](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/39-45p182.png).
+
+---
+
+Pour lundi 16 octobre 2017:
+
+1. Relire la partie 3 [du polycopié du cours sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Recopier et apprendre les théorèmes 19 et 21 ainsi que la définition 22.
+
+3. Exercices [5 à 9 page 172](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/5-9p172.png): Utilisation de la colinéarité sans repère.
+
+S'inspirer de l'exercice résolu [B page 172](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Bp172.png) si nécessaire.
+
+---
+
+Pour jeudi 12 octobre 2017:
+
+1. Relire et questionner la partie 2 du [polycopié de cours sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Recopier les définitions 11, théorème 15 et proposition 17.
+
+3. Exercices [1 à 4 page 171](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/1-4p171.png): Utiliser la colinéarité en géométrie repérée.
+
+S'inspirer de l'exercice [résolu A page 171](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Ap171.png) si nécessaire.
+
+---
+
 Pour mardi 10 octobre 2017:
 
 Contrôle avec des problèmes du second degré:
