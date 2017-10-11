@@ -1,3 +1,30 @@
+Pour jeudi 9 novembre 2017:
+
+**Devoir à la maison 6**:
+
+Exercice [10 de la fiche 4](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/10fiche4.png) sur les vecteurs: Utilisation d'équations cartésiennes de droites.
+
+---
+
+Pour mardi 7 novembre 2017:
+
+1. Recopier les théorèmes 19 et 21 du cours [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Faire les [exercices 10 à 14 page 173](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/10-14p173.png)
+
+S'inspirer si nécessaire de l'exercice résolu [C page 173](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Cp173.png)
+
+---
+
+Pour lundi 6 novembre 2017:
+
+1. Relire le théorème 19 et la démonstration 20 du [polycopié sur les vecteurs](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/polycopie/vecteurs.pdf).
+
+2. Faire les exercices [15 à 19 page 174](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/15-19p174.png): Déterminer un équation cartésienne en utilisant la relation de colinéarité.
+
+S'inspirer de l'exercice résolu [D page 174](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/Dp174.png) si nécessaire.
+
+---
 
 Pour jeudi 19 octobre 2017:
 
