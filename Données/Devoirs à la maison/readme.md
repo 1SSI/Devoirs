@@ -1,3 +1,13 @@
+
+
+**Devoir à la maison 6**:
+
+Pour jeudi 9 novembre 2017:
+
+Exercice [10 de la fiche 4](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/10fiche4.png) sur les vecteurs: Utilisation d'équations cartésiennes de droites.
+
+---
+
 **Devoir à la maison 5**:
 
 Pour jeudi 19 octobre 2017
