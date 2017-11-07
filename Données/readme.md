@@ -1,3 +1,27 @@
+Pour lundi 13 novembre 2017:
+
+Exercices facultatifs de révisions
+
+1. [Exercice 65 page 183](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/65p183.png).
+<!-- ![65 page 183](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/65p183.png) -->
+
+2. [Exercice 70 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/70p184.png).
+<!-- ![Exercice 70 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/70p184.png) -->
+
+3. [Exercice 73 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/73p184.png).
+<!-- ![73 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/73p184.png) -->
+
+4. [Exercice 86 page 185](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/2.%20Vecteurs/images/86p185.png).
+<!-- ![exercice 86 page 185](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/86p185.png) -->
+
+5. [exercice 97 page 187](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/97p187.png).
+<!-- ![exercice 97 page 187](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/97p187.png) -->
+
+6. [Exercice 69 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/69p184.png).
+<!-- ![Exercice 69 page 184](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/2.%20Vecteurs/images/69p184.png) -->
+
+---
+
 Pour jeudi 9 novembre 2017:
 
 **Devoir à la maison 6**:
