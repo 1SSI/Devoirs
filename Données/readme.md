@@ -1,3 +1,9 @@
+Pour jeudi 16 novembre 2017:
+
+Exercices 1 à 8 page 72.
+
+---
+
 Pour mardi 14 novembre 2017:
 
 Contrôle avec des vecteurs et des équations de droites:
