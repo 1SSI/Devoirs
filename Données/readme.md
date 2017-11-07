@@ -1,3 +1,24 @@
+Pour mardi 14 novembre 2017:
+
+Contrôle avec des vecteurs et des équations de droites:
+
+- Tester l'alignement de trois points.
+- Tester le parallélisme de deux droites.
+- Montrer qu'un quadrilatère est un parallélogramme.
+- Justifier qu'un couple de vecteurs peut être choisi pour former un repère.
+- Calculer les coordonnées d'un point ou un vecteur dans un repère non nécessairement orthonormé.
+- Trouver un vecteur directeur d'une droite.
+- Tester l'appartenance d'un point à une droite.
+- Passer d'un équation cartésienne à la forme réduite.
+- Passer d'un équation réduite à la forme cartésienne.
+- Trouver l'équation d'une droite:
+  - Passant par deux points.
+  - Passant par un point et dirigé par un vecteur.
+  - Passant par un point et parallèle à une autre droite dont on a une équation.
+  - Avec un paramètre.
+
+---
+
 Pour lundi 13 novembre 2017:
 
 Exercices facultatifs de révisions
