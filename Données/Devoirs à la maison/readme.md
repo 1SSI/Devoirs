@@ -1,4 +1,16 @@
+**Devoir à la maison 7**:
 
+Pour jeudi 23 novembre 2017:
+
+1. Recopier le tableau du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) pour le calcul des dérivées de fonctions de référence (paragraphe 2.1).
+
+2. Recopier la proposition 9 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) sur la dérivation.
+
+3. Faire l'exercice [14 de la fiche 5](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm7.png) sur les dérivées: Calcul de dérivées.
+
+4. Surligner dans les deux tableaux recopiés les formules utilisées pour les calculs de dérivées de l'exercice 14.
+
+---
 
 **Devoir à la maison 6**:
 
