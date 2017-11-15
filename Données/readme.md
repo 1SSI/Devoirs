@@ -1,6 +1,71 @@
+Pour jeudi 23 novembre 2017:
+
+**Devoir à la maison 7**:
+
+1. Recopier le tableau du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) pour le calcul des dérivées de fonctions de référence (paragraphe 2.1).
+
+2. Recopier la proposition 9 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) sur la dérivation.
+
+3. Faire l'exercice [14 de la fiche 5](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm7.png) sur les dérivées: Calcul de dérivées.
+
+4. Surligner dans les deux tableaux recopiés les formules utilisées pour les calculs de dérivées de l'exercice 14.
+
+<!-- **Devoir à la maison 7**:
+
+1. Recopier le tableau du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) pour le calcul des dérivées de fonctions de référence (paragraphe 2.1).
+
+2. Recopier la proposition 9 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf) sur la dérivation.
+
+3. Faire l'exercice [14 de la fiche 5](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm7.png) sur les dérivées: Calcul de dérivées.
+
+![14 de la fiche 5](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm7.png)
+
+4. Surligner dans les deux tableaux recopiés les formules utilisées pour les calculs de dérivées de l'exercice 14. -->
+
+---
+
+Pour mardi 21 novembre 2017:
+
+Exercice facultatif à publier sur le fil github:
+
+[Exercice 42 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/42p85.png).
+
+<!-- Exercice facultatif à publier sur ce fil de discussion:
+
+![Exercice 42 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/42p85.png). -->
+
+---
+
+Pour lundi 20 novembre 2017:
+
+1. Lire et questionner les paragraphes 1 et 2 du cours polycopié sur la [dérivation](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf):
+ - Nombre dérivé et tangentes.
+ - Calcul de dérivées.
+
+2. Faire les exercices [1 à 3 page 77](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-3p77.png): Associer tangente et nombre dérivée.
+Seulement en cas de difficulté, vous pouvez vous aider de l'exercice résolu [A page 77](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Ap77.png).
+
+3. Faire les exercices [4 à 6 page 78](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/4-6p78.png): Tracer une tangente connaissant le nombre dérivé.
+Seulement en cas de difficulté, vous pouvez vous aider de l'exercice résolu [B page 78](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Bp78.png).
+
+<!-- 1. Lire et questionner les paragraphes 1 et 2 du cours polycopié sur la [dérivation](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf):
+ - Nombre dérivé et tangentes.
+ - Calcul de dérivées.
+2. Associer tangente et nombre dérivée.
+![1 à 3 page 77](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-3p77.png)
+Seulement en cas de difficulté, vous pouvez vous aider de l'exercice résolu
+![A page 77](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Ap77.png)
+
+3. Tracer une tangente connaissant le nombre dérivé.
+![4 à 6 page 78](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/4-6p78.png)
+Seulement en cas de difficulté, vous pouvez vous aider de l'exercice résolu
+![B page 78](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Bp78.png) -->
+
+---
+
 Pour jeudi 16 novembre 2017:
 
-Exercices 1 à 8 page 72.
+Exercices facultatifs 1 à 8 page 72: révision sur les équations réduites de la forme y=mx+p.
 
 ---
 
