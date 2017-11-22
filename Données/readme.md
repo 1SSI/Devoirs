@@ -1,3 +1,45 @@
+Pour jeudi 30 novembre 2017:
+
+**Devoir à la maison 8**:
+
+1. Recopier le théorème 11 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf).
+
+2. 
+[Exercice 19](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm8.png) de la fiche 5.
+
+<!-- Devoir à la maison 8:
+
+![Devoir à la maison 8](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm8.png) -->
+---
+
+Pour mardi 28 novembre 2017:
+
+Exercice facultatif [41 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/41p85.png) à publier sur le fil github:
+
+
+
+<!-- Exercice facultatif à publier sur le fil si dessous:
+
+![41 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/41p85.png) -->
+
+---
+
+Pour lundi 27 novembre 2017:
+
+1. Relire la partie 2 du cours [polycopié sur la dérivation](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf), en particulier l'exemple 10.
+
+2. Exercices [1 et 2 page 97](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-2p97.png): Dérivée de polynômes et dérivée d'une combinaison linéaire.
+
+3. Exercices [3 et 4 page 97](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/3-4p97.png): Somme de fonctions dérivables.
+
+<!-- Relire la partie 2 du cours [polycopié sur la dérivation](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf), en particulier l'exemple 10.
+
+![1 et 2 page 97](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-2p97.png)
+
+![3 et 4 page 97](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/3-4p97.png) -->
+
+---
+
 Pour jeudi 23 novembre 2017:
 
 **Devoir à la maison 7**:
