@@ -1,3 +1,15 @@
+**Devoir à la maison 8**:
+
+Pour jeudi 30 novembre 2017:
+
+1. Recopier le théorème 11 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf).
+
+2.
+[Exercice 19](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm8.png) de la fiche 5.
+
+
+---
+
 **Devoir à la maison 7**:
 
 Pour jeudi 23 novembre 2017:
