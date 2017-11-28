@@ -1,10 +1,46 @@
+Pour jeudi 7 décembre 2017:
+
+Exercice non facultatif à publier sur le fil gitHub.
+
+[Exercice D page 90](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Dp90.png)
+
+<!-- Exercice non facultatif à publier sur ce fil.
+
+![Exercice D page 90](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/Dp90.png) -->
+
+---
+
+Pour mardi 5 décembre 2017:
+
+1. Interrogation écrite sur les formules de dérivées.
+
+2. Exercice facultatif à publier sur le fil github:
+
+[](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/42p85.png)
+
+<!-- 1. Interrogation écrite sur les formules de dérivées.
+
+2. Exercice facultatif 42 page 85 à publier sur ce fil:
+
+ ![exercice 42 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/42p85.png) -->
+
+---
+
+Pour lundi 4 décembre 2017:
+
+[Exercices 35 à 39 page 85](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/35-39p85.png).
+
+<!-- ![](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/35-39p85.png) -->
+
+---
+
 Pour jeudi 30 novembre 2017:
 
 **Devoir à la maison 8**:
 
 1. Recopier le théorème 11 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/3.%20Derivation/Polycopie/Derivation.pdf).
 
-2. 
+2.
 [Exercice 19](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm8.png) de la fiche 5.
 
 <!-- Devoir à la maison 8:
