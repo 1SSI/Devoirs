@@ -1,3 +1,62 @@
+Pour jeudi 21 décembre 2017:
+
+Exercice facultatif à publier sur le fil GitHub:
+
+[66 page 109](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/66p109.png)
+
+<!-- Exercice facultatif à publier sur ce fil:
+
+![66 page 109](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/66p109.png) -->
+
+---
+
+Pour mardi 19 décembre 2017:
+
+Interrogation sur les formules pour le second degré.
+
+Définition 9 et théorème 11 du [polycopié](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/1.%20Second%20degr%C3%A9/Polycopi%C3%A9/secondDegre.pdf)  sur le second degré.
+
+---
+
+Pour lundi 18 décembre 2017:
+
+Etude de variations: [9-12 page 99](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/9-12p99.png).
+
+<!-- Etude de variations:
+
+![9-12 page 99](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/9-12p99.png) -->
+---
+
+Pour jeudi 14 décembre 2017:
+
+[1-3-4 page 93](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-3-4p93.png)
+
+<!-- ![1-3-4 page 93](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/1-3-4p93.png) -->
+
+---
+
+Pour mardi 12 décembre 2017:
+
+Contrôle avec des dérivées.
+
+Compétences attendues pour ce contrôle:
+- Calculer l'ordonnée d'un point sur une courbe représentative d'une fonction dont on connaît l'abscisse.
+- Calculer une expression pour la dérivée d'une fonction:
+  - De référence: constante, affine, puissance, inverse et racine carrée,
+  - En utilisant les formules de dérivée d'une somme, d'un produit par une constante, d'un produit, d'un inverse et d'un quotient.
+- Calculer l'équation réduite d'une droite passant par deux points dont on connaît les coordonnées.
+- Calculer l'équation réduite d'une tangente.
+- Retrouver la limite du taux de variation entre x et x+h lorsque h tend vers 0 pour les fonctions inverses et racine carrée.
+- Décider si une droite est tangente à une courbe.
+
+---
+
+Pour lundi 11 décembre 2017:
+
+Préparer les questions sur les dérivées.
+
+---
+
 Pour jeudi 7 décembre 2017:
 
 Exercice non facultatif à publier sur le fil gitHub.
