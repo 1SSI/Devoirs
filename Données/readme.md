@@ -1,3 +1,37 @@
+
+Pour jeudi 11 janvier 2018:
+
+Devoir à la maison 9:
+
+[Exercice 13](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm9.png) de la fiche d'exercices 6.
+
+<!-- Devoir à la maison 9:
+
+![Exercice 13 de la fiche d'exercices 6](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm9.png) -->
+
+---
+
+Pour mardi 9 janvier 2018:
+
+Exercice facultatif à publier sur le fil GitHub:
+
+[20 page 102](https://raw.githubusercontent.com/ThomasGire/Cours1S/27fec201d794b58330c395f7b7b0848af3ee2507/Chapitres/3.%20Derivation/Images/20p102.png).
+
+<!-- Exercice facultatif à publier sur ce fil:
+
+![20 page 102](https://raw.githubusercontent.com/ThomasGire/Cours1S/27fec201d794b58330c395f7b7b0848af3ee2507/Chapitres/3.%20Derivation/Images/20p102.png) -->
+
+---
+
+Pour lundi 8 janvier 2018:
+
+Problèmes utilisant le calcul de dérivées:
+[13 et 14 page 100](https://raw.githubusercontent.com/ThomasGire/Cours1S/27fec201d794b58330c395f7b7b0848af3ee2507/Chapitres/3.%20Derivation/Images/13-14p100.png)
+
+<!-- ![13 et 14 page 100](https://raw.githubusercontent.com/ThomasGire/Cours1S/27fec201d794b58330c395f7b7b0848af3ee2507/Chapitres/3.%20Derivation/Images/13-14p100.png) -->
+
+---
+
 Pour jeudi 21 décembre 2017:
 
 Exercice facultatif à publier sur le fil GitHub:

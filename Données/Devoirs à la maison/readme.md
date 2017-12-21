@@ -1,3 +1,11 @@
+**Devoir à la maison 9**:
+
+Pour jeudi 11 janvier 2018:
+
+[Exercice 13](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/3.%20Derivation/Images/dm9.png) de la fiche d'exercices 6.
+
+---
+
 **Devoir à la maison 8**:
 
 Pour jeudi 30 novembre 2017:
