@@ -1,3 +1,14 @@
+**Devoir à la maison 10**:
+
+Pour jeudi 25 janvier 2018:
+
+1. Recopier la définition 10 et le théorème 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Faire l'exercice 26 de la fiche 7: [Devoir à la maison 10](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm10.png)
+
+
+---
+
 **Devoir à la maison 9**:
 
 Pour jeudi 11 janvier 2018:

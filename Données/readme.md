@@ -1,4 +1,98 @@
 
+Pour jeudi 25 janvier 2018:
+
+1. Recopier la définition 10 et le théorème 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Faire l'exercice 26 de la fiche 7: [Devoir à la maison 10](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm10.png)
+
+<!-- 1. Recopier la définition 10 et le théorème 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Faire l'exercice 26 de la fiche 7: ![Devoir à la maison 10](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm10.png) -->
+
+---
+
+Pour mardi 23 janvier 2018:
+
+1. Recopier les définitions 7 et 10 ainsi que les théorèmes 9 et 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Exercices facultatifs à publier sur ce fil:
+
+[37 à 39 page 132](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/37-39p132.png)
+
+<!--
+1. Recopier les définitions 7 et 10 ainsii que les théorèmes 9 et 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Exercices facultatifs à publier sur ce fil:
+
+![37 à 39 page 132](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/37-39p132.png) -->
+
+---
+
+Pour lundi 22 janvier 2018:
+
+1. Relire les définition 7 et 10 du [polycopié sur les suites]((https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).)
+
+2. Reconnaître des suites arithmétiques et géométriques:
+
+  - [1 à 6 page 123](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-6p123.png). En cas de difficulté, vous pouvez vous inspirer de l'exercice résolu: [A page 123](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/Ap123.png).
+
+  - [7 à 11 page 124](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/7-11p124.png). En cas de difficulté vous pouvez vous inspirer de l'exercice résolu: [B page 124](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/Bp124.png).
+
+<!--
+
+1. Relire les définition 7 et 10 du [polycopié sur les suites]((https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).)
+
+2. Reconnaître des suites arithmétiques et géométriques:
+
+ ![1 à 6 page 123](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-6p123.png)
+
+En cas de difficulté, vous pouvez vous inspirer de l'exercice résolu:
+![A page 123](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/Ap123.png)
+
+![7 à 11 page 124](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/7-11p124.png)
+
+En cas de difficulté vous pouvez vous inspirer de l'exercice résolu:
+
+![B page 124](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/Bp124.png) -->
+
+---
+
+Pour jeudi 18 janvier 2018:
+
+1. Lire et questionner le [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Exercices non facultatifs à publier sur ce fil:
+
+[1-5 page 118](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-5p118.png)
+
+---
+
+Pour mardi 16 janvier 2018:
+
+Contrôle avec des problèmes utilisant des calculs de dérivées.
+
+Des compétences attendues pour ce contrôle:
+- Justifier un ensemble de définition de fonction.
+- Dériver des polynômes.
+- Dériver des quotients de polynômes.
+- Étudier le signe d'un trinôme du second degré.
+- Utiliser la règle des signes (seulement lorsque la fonction est un produit ou un quotient !)
+- Savoir réécrire l'expression d'une fonction pour en étudier le signe:
+  - en factorisant,
+  - en réduisant au même dénominateur.
+- Utiliser le signe d'une dérivée pour construire un tableau de variations.
+- Exploiter un tableau de variation
+  - Pour trouver des extremums à une fonction.
+  - Pour établir des inégalités (les meilleurs possibles) pour f(x) lorsque x appartient à un intervalle.
+
+---
+
+Pour lundi 15 janvier 2018:
+
+Préparer la séance de révision pour le contrôle sur les problèmes utilisant des dérivées.
+
+---
+
 Pour jeudi 11 janvier 2018:
 
 Devoir à la maison 9:
