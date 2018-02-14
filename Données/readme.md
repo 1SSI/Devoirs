@@ -1,5 +1,133 @@
+Pour jeudi 22 février 2018:
+
+Enroulement de la droite des réels sur le cercle trigonométrique.
+
+[Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png)
+
+<!-- Enroulement de la droite des réels sur le cercle trigonométrique.
+
+![Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png) -->
+
+Pour jeudi 22 février 2018:
+
+Enroulement de la droite des réels sur le cercle trigonométrique.
+
+[Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png)
+
+<!-- ![Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png) -->
+---
+
+Pour mardi 20 février 2018:
+
+Contrôle sur les suites.
+
+Des savoirs-faire attendus pour ce contrôle:
+
+- Construire un tableau des valeurs prises par une variable dans un algorithme écrit en langage naturel.
+- Reconnaître un algorithme permettant de calculer des termes consécutifs d'une suite définie par récurrence ou par une formule explicite.
+- Calculer des termes d'une suite (définie par récurrence ou par une formule explicite).
+- Déterminer si une suite est arithmétique ou non. géométrique
+- Déterminer si une suite est géométrique ou non.
+- Utiliser les formules explicites pour les suites arithmétiques et géométriques pour le calcul de termes.
+- Savoir dénombrer le nombre d'entiers dans un intervalle d'entier (borne sup moins borne inf +1).
+- Savoir démontrer les formules de somme de termes consécutifs de suites arithmétiques ou géométriques.
+- Savoir dériver un polynôme.
+- Savoir étudier le signe d'un trinôme.
+- Savoir étudier les variations d'une suite:
+ - Par un calcul pour tout entier n.
+ - En utilisant les variations d'une fonction sous-jacente à une formule explicite.
+
+---
+
+Pour lundi 19 février 2018:
+
+Préparer des questions pour la séance de révision.
+
+Exercices de révision:
+
+Exercices de révision:
+
+[65 et 66 page 133](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/65-66p133.png)
+
+[102-103 page 135](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/102-103p135.png)
+
+[67 à 69 page 133](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/67-69p133.png)
+
+[132 page 137](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/132p137.png)
+
+<!-- ![65 et 66 page 133](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/65-66p133.png)
+
+![102-103 page 135](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/102-103p135.png)
+
+![67 à 69 page 133](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/67-69p133.png)
+
+![132 page 137](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/132p137.png) -->
+
+---
+
+Pour jeudi 15 février 2018:
+
+**Devoir à la maison 12**:
+
+[Exercice 8 de la fiche 10](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm12.png)
+
+---
+
+Pour mardi 13 février 2018:
+
+[Exercices 1 à 4 page 149](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-4p149.png)
+
+---
+
+Pour jeudi 8 février 2018:
+
+**Devoir à la maison 11**:
+
+1. Recopier la définition 13 et le théorème 15 et 17 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Faire l'exercice 9 de la fiche 9: [Devoir à la maison 11](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm11.png)
+
+---
+
+Pour mardi 6 février 2018:
+
+Exercice facultatif à faire sur le fil github.
+[115 page 136](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/115p136.png)
+
+<!-- Exercice facultatif à faire sur ce fil.
+![115 page 136](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/115p136.png) -->
+
+---
+
+Pour lundi 5 février 2018:
+
+
+
+---
+
+Pour mardi 30 janvier 2018:
+
+[Exercices 1 et 2 page 142](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-2p142.png)
+
+<!-- ![Exercices 1 et 2 page 142](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/1-2p142.png) -->
+
+---
+
+Pour lundi 29 janvier 2018:
+
+1. Recopier les théorèmes 9 et 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. [12 à 18 page 125](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/12-18p125.png)
+
+<!-- Recopier les théorèmes 9 et 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+![12 à 18 page 125](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/12-18p125.png) -->
+
+---
 
 Pour jeudi 25 janvier 2018:
+
+Devoir à la maison 10:
 
 1. Recopier la définition 10 et le théorème 12 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
 

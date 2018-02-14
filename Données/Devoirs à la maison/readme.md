@@ -1,3 +1,21 @@
+**Devoir à la maison 12**:
+
+Pour jeudi 15 février 2018:
+
+[Exercice 8 de la fiche 10](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm12.png)
+
+---
+
+**Devoir à la maison 11**:
+
+Pour jeudi 8 février 2018:
+
+1. Recopier la définition 13 et le théorème 15 et 17 du [polycopié sur les suites](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/4.%20Suites/Polycopie/Suites.pdf).
+
+2. Faire l'exercice 9 de la fiche 9: [Devoir à la maison 11](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/dm11.png)
+
+---
+
 **Devoir à la maison 10**:
 
 Pour jeudi 25 janvier 2018:
