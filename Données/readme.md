@@ -45,8 +45,6 @@ Préparer des questions pour la séance de révision.
 
 Exercices de révision:
 
-Exercices de révision:
-
 [65 et 66 page 133](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/65-66p133.png)
 
 [102-103 page 135](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/102-103p135.png)
