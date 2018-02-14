@@ -1,14 +1,4 @@
-Pour jeudi 22 février 2018:
 
-Enroulement de la droite des réels sur le cercle trigonométrique.
-
-[Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png)
-
-<!-- Enroulement de la droite des réels sur le cercle trigonométrique.
-
-![Exercices 1 et 2 page 192](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-2p192.png) -->
-
----
 
 Pour jeudi 22 février 2018:
 
