@@ -1,3 +1,23 @@
+**Devoir à la maison numéro 14**:
+
+Pour jeudi 22 mars 2018:
+
+[Devoir à la maison 14](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/dm14.png)
+
+---
+
+**Devoir à la maison numéro 13**:
+
+Pour jeudi 15 mars 2018:
+
+Soit (u_n) la suite définie pour tout entier n par récurrence comme suit
+u_0=1
+u_{n+1}=3u_{n}
+
+1. Réaliser un programme en langage naturel permettant de calculer la somme S des termes consécutifs de cette suite de u_3 jusqu'à u_12.
+2. Calculer cette somme en utilisant une formule adéquate. Vérifier la correction de votre programme en l’exécutant.
+3. Bonus redémontrer la formule utilisée en 2)
+
 **Devoir à la maison 12**:
 
 Pour jeudi 15 février 2018:
