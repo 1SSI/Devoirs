@@ -1,4 +1,57 @@
+Pour vendredi 23 mars 2018.
 
+**Devoir à la maison numéro 14**:
+
+[Devoir à la maison 14](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/dm14.png)
+
+---
+
+Pour mardi 20 mars 2018:
+
+Relire le théorème 7 les propositions 9,10 et 11 du  [polycopié sur le produit scalaire](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf).
+
+Exercices non facultatifs. Une rédaction sur le fil github pourra être valorisé.
+
+[26 à 29 page 205](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/26-29p205.png)
+
+---
+
+Pour lundi 19 mars 2018
+
+Relire les définitions 2 et 3, l'exemple 4 et la définition 14 du [polycopié sur le produit scalaire](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf).
+
+[1 à 4 page 197](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/1-4p197.png)
+
+---
+
+Pour jeudi 15 mars 2018
+
+**Devoir à la maison numéro 13**:
+
+Soit (u_n) la suite définie pour tout entier n par récurrence comme suit
+u_0=1
+u_{n+1}=3u_{n}
+
+1. Réaliser un programme en langage naturel permettant de calculer la somme S des termes consécutifs de cette suite de u_3 jusqu'à u_12.
+2. Calculer cette somme en utilisant une formule adéquate. Vérifier la correction de votre programme en l’exécutant.
+3. Bonus redémontrer la formule utilisée en 2)
+
+---
+
+Pour mardi 13 mars 2018:
+
+Lire et questionner le polycopié sur le [produit scalaire](https://github.com/ThomasGire/Cours1S/blob/master/Chapitres/5.%20Poduit%20scalaire/Polycopie/ProduitScalaire.pdf).
+
+Exercice facultatif à rédiger sur ce fil:
+[Exercice 81 page 134](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/81p134.png)
+
+---
+
+Pour lundi 12 mars 2018:
+
+[96 et 97 page 135](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/4.%20Suites/Images/96-97p135.png)
+
+---
 
 Pour jeudi 22 février 2018:
 
