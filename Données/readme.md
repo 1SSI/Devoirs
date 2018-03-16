@@ -2,7 +2,7 @@ Pour vendredi 23 mars 2018.
 
 **Devoir à la maison numéro 14**:
 
-[Devoir à la maison 14](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/dm14.png)
+[Exercice 6 de la fiche 12](https://raw.githubusercontent.com/ThomasGire/Cours1S/master/Chapitres/5.%20Poduit%20scalaire/Images/dm14.png)
 
 ---
 
